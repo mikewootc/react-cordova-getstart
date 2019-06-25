@@ -1,0 +1,5 @@
+platforms/android/.gradle/
+platforms/android/CordovaLib/build/
+platforms/android/app/build/
+platforms/android/app/src/main/assets/www/js/bundle.js
+www/js/bundle.js
